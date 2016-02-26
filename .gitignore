@@ -1,0 +1,5 @@
+/build
+/node_modules
+/public
+/typings
+/source/.baseDir.ts
